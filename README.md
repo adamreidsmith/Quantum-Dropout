@@ -14,7 +14,7 @@ This research project explores an innovative quantum machine learning approach t
 ## Research Methodology
 
 ### Data
-- **Dataset**: EuroSAT Satellite Image Dataset [EuroSAT](https://ieeexplore.ieee.org/document/8736785)
+- **Dataset**: EuroSAT Satellite Image Dataset [[EuroSAT](https://ieeexplore.ieee.org/document/8736785)]
 - **Image Size**: 64×64 pixels
 - **Spectral Bands**: RGB
 - **Total Images**: 27,000
@@ -65,4 +65,4 @@ This project was supported by members from the Institut Quantique and the Dépar
 
 ## References
 
-[1] Patrick Helber, Benjamin Bischke, Andreas Dengel, and Damian Borth. Introducing EuroSAT: A Novel Dataset and Deep Learning Benchmark for Land Use and Land Cover Classification. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2019.
+- Patrick Helber, Benjamin Bischke, Andreas Dengel, and Damian Borth. Introducing EuroSAT: A Novel Dataset and Deep Learning Benchmark for Land Use and Land Cover Classification. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2019.
